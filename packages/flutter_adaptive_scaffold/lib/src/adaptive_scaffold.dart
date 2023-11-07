@@ -183,13 +183,13 @@ class AdaptiveScaffold extends StatefulWidget {
   /// The breakpoint defined for the medium size, associated with tablet-like
   /// features.
   ///
-  /// Defaults to [Breakpoints.mediumBreakpoint].
+  /// Defaults to [Breakpoints.medium].
   final Breakpoint mediumBreakpoint;
 
   /// The breakpoint defined for the large size, associated with desktop-like
   /// features.
   ///
-  /// Defaults to [Breakpoints.largeBreakpoint].
+  /// Defaults to [Breakpoints.large].
   final Breakpoint largeBreakpoint;
 
   /// Whether or not the developer wants the smooth entering slide transition on
